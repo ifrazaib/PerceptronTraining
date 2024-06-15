@@ -28,4 +28,8 @@ where
 y is the true label, 
 y^ is the predicted label, and 
 𝑥𝑖 is the feature value.
- 
+
+
+![graphtr](https://github.com/Ifra-Zaib/Machine-Learning-Perceptron-training-rule/assets/172352661/5e398c2a-78fa-49c2-b7e8-15941ec9ded7)
+
+![tr](https://github.com/Ifra-Zaib/Machine-Learning-Perceptron-training-rule/assets/172352661/16c3e273-b805-4dee-890c-ed4b812b1fb0)
